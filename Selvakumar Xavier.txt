@@ -1,2 +1,5 @@
 Dev OPS day 1 Training
-today is our lab session
+today is our lab sessionhttps://github.com/selva1977/CloudRepo.git
+
+
+today is our day
